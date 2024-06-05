@@ -1,0 +1,12 @@
+trajin cmp_eq1.mdcrd
+trajin cmp_eq2.mdcrd
+trajin cmp_eq3.mdcrd
+trajin cmp_eq4.mdcrd
+trajin cmp_eq5.mdcrd
+trajin cmp_eq6.mdcrd
+trajin cmp_eq7.mdcrd
+trajin cmp_eq8.mdcrd
+trajin cmp_eq9.mdcrd
+trajin cmp_eq10.mdcrd
+distance :1@N1 :17@N1 out 1_17distance.dat
+distance :18@N9 :34@N9 out 18_34distance.dat
